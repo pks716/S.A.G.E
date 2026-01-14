@@ -1,7 +1,7 @@
 # S.A.G.E
-S.A.G.E: Student's Academic Guide Engine is a platform that aims to leverage the power of
+S.A.G.E: Student's Academic Guide Engine is a digital library based platform for universities that aims to leverage the power of
 Large Language Models to help the students with their academic needs. It does so by facilitating
-the querying of any standard document(pdf) using Retreival-Augmented Generation.
+the querying of any standard document(pdf) from the library's repository using Retreival-Augmented Generation.
 
 Steps to run:
 1) Clone the repository
